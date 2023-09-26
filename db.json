@@ -1,0 +1,176 @@
+{
+  "videos": [
+    {
+      "titulo": "Abandona TypeScript... ¿Por qué? - DHH",
+      "linkVideo": "https://www.youtube.com/watch?v=8_xqKXWvh80",
+      "Categoria": "Novedades",
+      "descripcion": "Estaremos hablando sobre como DHH el creador de Ruby on Rails abandona por completo TypeScript en su proyecto de Turbo 8, mucha gente no se lo tomo tan bien...",
+      "codigoSeguridad": "14141414",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694569555/image/upload/Screenshot_2023-09-12_at_19-45-24_1_YouTube_cgan9q.png",
+      "id": 20
+    },
+    {
+      "titulo": "Equipo Front End",
+      "linkVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "Categoria": "Front End",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?\n\nEn este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.\n\n¿Quieres saber más?\n\nVe nuestros cursos de Front End:\nhttps://www.aluracursos.com/cursos-on...",
+      "codigoSeguridad": "159159",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659210/image/upload/Screenshot_2023-09-13_at_20-39-38_1_alura_front_end_-_YouTube_ehowgn.png",
+      "id": 21
+    },
+    {
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "Categoria": "Front End",
+      "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? \n\nEn este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.\n\n¿Quieres saber más?\n\nEntra a nuestra plataforma, dónde encontrarás variados cursos de tecnología:\nhttps://www.aluracursos.com/",
+      "codigoSeguridad": "123123",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659296/image/upload/Screenshot_2023-09-13_at_20-41-04_1_alura_front_end_-_YouTube_iggvei.png",
+      "id": 22
+    },
+    {
+      "titulo": "Consejos de CSS FlexBox para comenzar",
+      "linkVideo": "https://www.youtube.com/watch?v=EB4vWLzfVcI",
+      "Categoria": "Front End",
+      "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas.\n\nEn el siguiente artículo tendrás una súper guía con ejemplos de Flexbox:\nhttps://www.aluracursos.com/blog/flex...",
+      "codigoSeguridad": "456456",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659375/image/upload/Screenshot_2023-09-13_at_20-42-19_1_alura_front_end_-_YouTube_pbt9mu.png",
+      "id": 23
+    },
+    {
+      "titulo": "Guia de carreira Front-end",
+      "linkVideo": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "Categoria": "Front End",
+      "descripcion": "Nova temporada de Hipsters.tube no ar e agora com foco em carreira! 🎊\n\nNesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T.",
+      "codigoSeguridad": "789789",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659465/image/upload/Screenshot_2023-09-13_at_20-43-45_1_alura_front_end_-_YouTube_velm6m.png",
+      "id": 24
+    },
+    {
+      "titulo": "¿Cuál es la diferencia entre Front End y Back End?",
+      "linkVideo": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+      "Categoria": "BackEnd",
+      "descripcion": "¿Cuál es la diferencia entre Front End y Back End? \n\nEn este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web.",
+      "codigoSeguridad": "321321",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659574/image/upload/Screenshot_2023-09-13_at_20-45-46_1_alura_backend_-_YouTube_agxnqr.png",
+      "id": 25
+    },
+    {
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "linkVideo": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "Categoria": "BackEnd",
+      "descripcion": "¿Quieres saber más?\n\nVe nuestros cursos:\nhttps://www.aluracursos.com/cursos-on...\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/",
+      "codigoSeguridad": "654654",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659636/image/upload/Screenshot_2023-09-13_at_20-46-36_1_alura_backend_-_YouTube_an9ygh.png",
+      "id": 26
+    },
+    {
+      "titulo": "Desmistificando el Back-End",
+      "linkVideo": "https://www.youtube.com/watch?v=LLt7FreeHfQ",
+      "Categoria": "BackEnd",
+      "descripcion": "¿Qué es backend?  ¿Por qué debería comenzar mi carrera con backend? \n\n¿Cuáles son las skills necesarias para ser un buen desarrollador backend? \n\n¿Qué hace un desarrollador backend en su dia a dia laboral? \n\nEsas y otras preguntas serán respondidas en este evento, en el que vamos a hablar con Maria Fernanda Ferreira y Diego Arguelles dos programadores Back End e Instructores de Alura.",
+      "codigoSeguridad": "987987",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659694/image/upload/Screenshot_2023-09-13_at_20-47-30_1_alura_backend_-_YouTube_av3vj1.png",
+      "id": 27
+    },
+    {
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei ",
+      "linkVideo": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+      "Categoria": "BackEnd",
+      "descripcion": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔",
+      "codigoSeguridad": "32143214",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659767/image/upload/Screenshot_2023-09-13_at_20-48-37_1_alura_backend_-_YouTube_jex4s5.png",
+      "id": 28
+    },
+    {
+      "titulo": "Empresas que aprenden ",
+      "linkVideo": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "¿Conoces el papel del aprendizaje dentro de una organización?\n\n**El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa**. Pero, ¿tienes alguna idea de cómo hacerse esto? En este Alura+, Priscila Stuani habla sobre el papel de la organización en el proceso de aprendizaje de sus profesionales.\n\nLas organizaciones tienen responsabilidades en el proceso de aprendizaje de sus colaboradores. Una de las formas de actuar en este sentido es potenciar algunas habilidades, como el pensamiento sistémico, el dominio personal, trabajar modelos mentales, construir una visión compartida, aprender en equipo y reconocer los patrones de interacción que dificultan este aprendizaje, además de componentes de tecnologías estimulantes.\n\nInstructora: Priscila Stuani",
+      "codigoSeguridad": "65476547",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659879/image/upload/Screenshot_2023-09-13_at_20-51-06_Empresas_que_aprenden_aluram%C3%A1s_wcrosm.png",
+      "id": 29
+    },
+    {
+      "titulo": "7 Soft Skills más deseadas por las empresas",
+      "linkVideo": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+      "codigoSeguridad": "98749874",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694659956/image/upload/Screenshot_2023-09-13_at_20-52-23_7_Soft_Skills_m%C3%A1s_deseadas_por_las_empresas_AluraM%C3%A1s_checxb.png",
+      "id": 30
+    },
+    {
+      "titulo": "Descubre el poder del Machine Learning",
+      "linkVideo": "https://www.youtube.com/watch?v=edS0Fhg0xyM",
+      "Categoria": "Data Science",
+      "descripcion": "¿Quieres saber más?\n\nVe nuestros cursos de Machine Learning\nhttps://www.aluracursos.com/cursos-on...\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile\n\nProducción audiovisual: Henrique Balleiras",
+      "codigoSeguridad": "5626536",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694660076/image/upload/Screenshot_2023-09-13_at_20-54-23_Descubre_el_poder_del_Machine_Learning_iwjikk.png",
+      "id": 31
+    },
+    {
+      "titulo": "¿Qué son las Soft Skills?",
+      "linkVideo": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "codigoSeguridad": "54875487",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694660232/image/upload/Screenshot_2023-09-13_at_20-56-49_Qu%C3%A9_son_las_Soft_Skills_wzbohx.png",
+      "id": 32
+    },
+    {
+      "titulo": "CREADOR de C++ da CONSEJOS para PROGRAMADORES",
+      "linkVideo": "https://www.youtube.com/watch?v=LkI4mk9JecA",
+      "Categoria": "Novedades",
+      "descripcion": "Comentamos los consejos de vida para programadores que nos da Bjarne Stroustrup, creador de C++. Estos consejos son para todos los niveles 🤓",
+      "codigoSeguridad": "45694569",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694660455/image/upload/Screenshot_2023-09-13_at_21-00-18_midulive_pnantr.png",
+      "id": 33
+    },
+    {
+      "titulo": "Ruta de aprendizaje para convertirte en Desarrollador Web (Frontend Roadmap)",
+      "linkVideo": "https://www.youtube.com/watch?v=CvfB4KzP4us",
+      "Categoria": "Front End",
+      "descripcion": "¿Qué tienes que aprender para convertirte en desarrollador web? ¡Repasamos en directo una de las muchas rutas que existen para que consigas tus objetivos!",
+      "codigoSeguridad": "159487263",
+      "linkImagenVideo": "https://res.cloudinary.com/dbq6fvcbp/image/upload/v1694660520/image/upload/Screenshot_2023-09-13_at_21-01-28_midulive_hjzso8.png",
+      "id": 34
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoriaNombre": "Front End",
+      "categoriaTexto": "Formacion Front End Alura Latam",
+      "categoriaColor": "#6BD1FF"
+    },
+    {
+      "categoriaNombre": "BackEnd",
+      "categoriaTexto": "Formacion Back End de Alura Latam",
+      "categoriaColor": "#ff2700",
+      "codigoSeguridad": "333333333",
+      "id": 2
+    },
+    {
+      "categoriaNombre": "Innovacion y Gestion",
+      "categoriaTexto": "Innovacion y Gestion",
+      "categoriaColor": "#ff00c0",
+      "codigoSeguridad": "1111111",
+      "id": 3
+    },
+    {
+      "categoriaNombre": "Novedades",
+      "categoriaTexto": "Noticias relevantes en el ámbito de la tecnología y la programación.",
+      "categoriaColor": "#00ffa3",
+      "codigoSeguridad": "1616161",
+      "id": 4
+    },
+    {
+      "categoriaNombre": "Data Science",
+      "categoriaTexto": "Tecnologías y métodos para procesar y analizar datos.",
+      "categoriaColor": "#a2ff00",
+      "codigoSeguridad": "1542154",
+      "categoriacolor": "",
+      "id": 5
+    }
+  ]
+}

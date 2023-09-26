@@ -1,25 +1,66 @@
-import logo from './logo.svg';
-import './App.css';
+import './styles/reset.css'
+import React, { useState, useEffect , useReducer } from 'react';
+import axios from 'axios';
+import MyContext from '../src/Context'
+import { createBrowserRouter,  Route,  createRoutesFromElements, RouterProvider  } from 'react-router-dom';
+import theme  from './styles/theme'
+import { ThemeProvider } from 'styled-components';
+import Footer from './componentes/Footer'
+import MainSection from './componentes/MainSection';
+import VideoPlayer from './componentes/Carousel/Slider/VideoPlayer';
+import  FormularioCategoria from './componentes/FormularioCategoria'
+import FormularioVideos from './componentes/FormularioVideos';
+import { SnackbarProvider } from "notistack";
+import RootLayout from './layouts/RootLayout';
 
 function App() {
+  const [categorias, setCategorias] = useState([]);
+  const [videos, setVideos] = useState([]);
+  const [videoToPlay,setVideoToPlay] = useState();
+  const [reducerValue, forceUpdate] = useReducer(x => x + 1, 0);
+
+  useEffect(() => {
+    axios.get('http://localhost:3001/categorias')
+      .then(response => setCategorias(response.data))
+      .catch(error => console.error(error));
+  }, [reducerValue]);
+
+  useEffect(() => {
+    axios.get('http://localhost:3001/videos')
+      .then(response => setVideos(response.data))
+      .catch(error => console.error(error));
+  }, [reducerValue]);
+
+  const handleVideoLoading = (videoUrl) => {
+    console.log(videoUrl)
+    setVideoToPlay(videoUrl);
+  };
+
+  const router = createBrowserRouter(
+    createRoutesFromElements(
+      <Route path='/' element={<RootLayout/>}>
+      <Route index element={<MainSection categorias={categorias} videos={videos} />} />
+      <Route path="/formulariovideos" element={<FormularioVideos/>} />
+      <Route path="/videoPlayer" element={<VideoPlayer/>}/>
+      <Route path="/formulariocategoria" element={<FormularioCategoria/>}/>
+      </Route>
+    )
+  )
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <ThemeProvider theme={theme}>
+      <SnackbarProvider
+      maxSnack={3}
+      autoHideDuration={2000}>
+    
+    <main >
+    <MyContext.Provider  value={{handleVideoLoading,setVideoToPlay , videoToPlay , forceUpdate }}>
+      <RouterProvider router={router}/>
+      <Footer/>
+      </MyContext.Provider>
+    </main>
+    </SnackbarProvider>
+    </ThemeProvider>
+    );
+};
 
 export default App;
